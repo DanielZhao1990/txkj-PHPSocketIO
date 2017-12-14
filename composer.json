@@ -1,6 +1,6 @@
 {
-  "name": "nmgtxkj/txkj-PHPSocketIO",
-  "description": "txkj-PHPSocketIO",
+  "name": "nmgtxkj/txkj-php-socket-io",
+  "description": "txkj-php-socket-io",
   "type": "library",
   "license": "MPL",
   "authors": [
