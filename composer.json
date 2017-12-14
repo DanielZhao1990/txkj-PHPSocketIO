@@ -1,6 +1,6 @@
 {
-  "name": "nmgtxkj/txkj-workerman",
-  "description": "txkj-workerman",
+  "name": "nmgtxkj/txkj-PHPSocketIO",
+  "description": "txkj-PHPSocketIO",
   "type": "library",
   "license": "MPL",
   "authors": [
@@ -14,9 +14,6 @@
     "nmgtxkj/toolbox": "~1.0.6"
   },
   "autoload": {
-    "psr-4": {
-      "toolbox\\": "src"
-    },
     "files": [
       "src/autoloader.php"
     ]
